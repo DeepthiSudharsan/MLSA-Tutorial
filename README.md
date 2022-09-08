@@ -1,12 +1,11 @@
 # MLSA-Tutorial
 Welcome to the MLSA Deep Learing Tutorial. In this session, we will help you install the necessary software and framework, perform Exploratory Data Analysis using **Power Bi**, design, train and test a Deep Learning Model using **Keras**, and deploy it on an intuitive UI using **Streamlit**.
 
-> Date : <br>
-> Time : <br>
-> Mentors : <br>
-> Venue :<br>
-> Link :<br>
-<br><br>
+> Date :        <br>
+> Time :        <br>
+> Mentors :     <br>
+> Venue :       <br>
+> Link :
 
 ```
 This event is only for Windows users, as Power Bi is only supported on Windows devices as of now.
