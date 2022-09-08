@@ -49,6 +49,7 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 3. Add Visual Studio Code to your `%PATH%` by adding the Microsoft Visual Studio Code `bin` path to your `System Variables` in Environment Variables.
 </details>
+
 You can access more resources for getting started and customizing preferences on the [Visual Studio Code Docs](https://code.visualstudio.com/docs) section.
 
 ### Microsoft Power BI
