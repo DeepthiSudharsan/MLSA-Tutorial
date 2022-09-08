@@ -67,3 +67,9 @@ For more details, you can visit the [Beginner's Guide](https://wiki.python.org/m
 Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc. With Streamlit, no callbacks are needed since widgets are treated as variables. Data caching simplifies and speeds up computation pipelines. Streamlit watches for changes on updates of the linked Git repository and the application will be deployed automatically in the shared link.<br>
 <b>Installation</b><br>
 Please refer the [official Streamlit Installation Documentation](https://docs.streamlit.io/library/get-started/installation) for installing streamlit on Windows.
+
+
+###Tensorflow 2
+TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
+<b>Installation</b><br>
+For installation instructions through `pip`, refer to the [Official Tensorflow2 Installation Guide](https://www.tensorflow.org/install/pip).
