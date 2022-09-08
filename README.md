@@ -7,6 +7,10 @@ Welcome to the MLSA Deep Learing Tutorial. In this session, we will help you ins
 > Venue :<br>
 > Link :<br>
 
+```
+This event is only for Windows users, as Power Bi is only supported on Windows devices as of now. But feel free to tune in for other modules, they will be enjoyable and useful for sure! :smile:
+```
+
 ## Quick Start Guide
 
 This guide will help you install the prerequisites to attend the MLSA Deep Learing Tutorial smoothly. Majority of this section is a self-task which shall not be covered during the session. If you have any doubts, feel free to contact any of the mentors for the session. Happy Deep Learning!
