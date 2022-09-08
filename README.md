@@ -1,11 +1,13 @@
 # MLSA-Tutorial
-Welcome to the MLSA Deep Learing Tutorial. In this session, we will help you install the necessary software and framework, perform exploratory data analysis (EDA)
-## Quick Start Guide
+Welcome to the MLSA Deep Learing Tutorial. In this session, we will help you install the necessary software and framework, perform EDA using `Power Bi`, design, train and test a Deep Learning Model using `Keras`, and deploy it using an intuitive UI using `Streamlit`.
+
 > Date : <br>
 > Time : <br>
 > Mentors : <br>
 > Venue :<br>
 > Link :<br>
+
+## Quick Start Guide
 
 This guide will help you install the prerequisites to attend the MLSA Deep Learing Tutorial smoothly. Majority of this section is a self-task which shall not be covered during the session, but if you have any doubts, feel free to contact any of the mentors for the session. Happy Learning!
 
