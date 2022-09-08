@@ -7,10 +7,10 @@ Welcome to the MLSA Deep Learing Tutorial. In this session, we will help you ins
 > Venue :<br>
 > Link :<br>
 <br><br>
-
-> This event is only for Windows users, as Power Bi is only supported on Windows devices as of now. <br>
-> But feel free to tune in for other modules, they will be enjoyable and useful for sure!<br>
-
+```sh
+This event is only for Windows users, as Power Bi is only supported on Windows devices as of now.
+But feel free to tune in for other modules, they will be enjoyable and useful for sure!<br>
+```
 
 ## Quick Start Guide
 
