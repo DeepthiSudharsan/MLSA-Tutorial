@@ -1,4 +1,4 @@
-# MLSA-Tutorial 🦋
+# MLSA-Tutorial 🙌
 Welcome to the MLSA Deep Learing Tutorial. In this session, we will help you install the necessary software and framework, perform Exploratory Data Analysis using **Power Bi**, design, train and test a Deep Learning Model using **Keras**, and deploy it on an intuitive UI using **Streamlit**.
 
 > Date :        <br>
@@ -50,3 +50,14 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 3. Add Visual Studio Code to your `%PATH%` by adding the Microsoft Visual Studio Code `bin` path to your `System Variables` in Environment Variables.
 
 </details>
+
+### Microsoft Power BI
+Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is part of the Microsoft Power Platform. Power BI is a collection of software services, apps, and connectors that work together to turn unrelated sources of data into coherent, visually immersive, and interactive insights. Data may be input by reading directly from a database, webpage, or structured files such as spreadsheets, CSV, XML, and JSON.
+<details><summary><b>Installation</b></summary>
+
+1. Download the [Power BI installer](https://www.microsoft.com/en-us/download/details.aspx?id=58494) for Windows.
+
+2. Once it is downloaded, run the downloaded installer. Select the installation folder and install. This will only take a minute.
+
+</details>
+
