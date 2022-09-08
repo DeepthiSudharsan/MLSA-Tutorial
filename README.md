@@ -64,6 +64,6 @@ Power BI is an interactive data visualization software product developed by Micr
 For more details, you can visit the [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide).
 
 ### Streamlit
-Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc. With Streamlit, no callbacks are needed since widgets are treated as variables. Data caching simplifies and speeds up computation pipelines. Streamlit watches for changes on updates of the linked Git repository and the application will be deployed automatically in the shared link.
+Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc. With Streamlit, no callbacks are needed since widgets are treated as variables. Data caching simplifies and speeds up computation pipelines. Streamlit watches for changes on updates of the linked Git repository and the application will be deployed automatically in the shared link.<br>
 <b>Installation</b><br>
 Please refer the [official Streamlit Installation Documentation](https://docs.streamlit.io/library/get-started/installation) for installing streamlit on Windows.
