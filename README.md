@@ -48,8 +48,8 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 2. Once it is downloaded, extract the archive to your desired location.
 
 3. Add Visual Studio Code to your `%PATH%` by adding the Microsoft Visual Studio Code `bin` path to your `System Variables` in Environment Variables.
-
 </details>
+You can access more resources for getting started and customizing preferences on the [Visual Studio Code Docs](https://code.visualstudio.com/docs) section.
 
 ### Microsoft Power BI
 Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence. It is part of the Microsoft Power Platform. Power BI is a collection of software services, apps, and connectors that work together to turn unrelated sources of data into coherent, visually immersive, and interactive insights. Data may be input by reading directly from a database, webpage, or structured files such as spreadsheets, CSV, XML, and JSON.
@@ -58,6 +58,11 @@ Power BI is an interactive data visualization software product developed by Micr
 1. Download the [Power BI installer](https://www.microsoft.com/en-us/download/details.aspx?id=58494) for Windows.
 
 2. Once it is downloaded, run the downloaded installer. Select the installation folder and install. This will only take a minute.
-
 </details>
 
+For more details, you can visit the [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide).
+
+### Streamlit
+Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc. With Streamlit, no callbacks are needed since widgets are treated as variables. Data caching simplifies and speeds up computation pipelines. Streamlit watches for changes on updates of the linked Git repository and the application will be deployed automatically in the shared link.
+<summary><b>Installation</b></summary>
+Please refer the [official Streamlit Installation Documentation](https://docs.streamlit.io/library/get-started/installation) for installing streamlit on Windows.
