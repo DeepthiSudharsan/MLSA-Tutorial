@@ -69,7 +69,7 @@ Streamlit is an open source app framework in Python language. It helps us create
 Please refer the [official Streamlit Installation Documentation](https://docs.streamlit.io/library/get-started/installation) for installing streamlit on Windows.
 
 
-###Tensorflow 2
+### Tensorflow 2
 TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.
 <b>Installation</b><br>
 For installation instructions through `pip`, refer to the [Official Tensorflow2 Installation Guide](https://www.tensorflow.org/install/pip).
