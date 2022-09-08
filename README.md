@@ -72,4 +72,4 @@ Please refer the [official Streamlit Installation Documentation](https://docs.st
 ### Tensorflow 2
 TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks.<br><br>
 <b>Installation</b><br>
-For installation instructions through `pip`, refer to the [Official Tensorflow2 Installation Guide](https://www.tensorflow.org/install/pip).
+For installation instructions through `pip`, refer to the [Official Tensorflow2 pip Installation Guide](https://www.tensorflow.org/install/pip).
