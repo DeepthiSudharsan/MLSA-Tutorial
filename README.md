@@ -1,10 +1,10 @@
 # MLSA-Tutorial 🙌
 Welcome to the MLSA Deep Learning Tutorial. In this session, we will help you install the necessary software and framework, perform Exploratory Data Analysis using **Power Bi**, design, train and test a Deep Learning Model using **Keras**, and deploy it on an intuitive UI using **Streamlit**.
 
-> Date :        <br>
-> Time :        <br>
-> Mentors :     <br>
-> Venue :       <br>
+> Date :        15th October, 2022<br>
+> Time :        6:00 PM (IST)<br>
+> Mentors :     [Deepthi Sudharsan](https://www.linkedin.com/in/deepthi-sudharsan/), Abhishek <br>
+> Venue :       MS Teams (Microsoft, Hehe)<br>
 > Link :
 
 ```
