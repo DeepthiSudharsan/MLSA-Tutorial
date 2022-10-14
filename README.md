@@ -3,9 +3,8 @@ Welcome to the MLSA Deep Learning Tutorial. In this session, we will help you in
 
 > Date :        15th October, 2022<br>
 > Time :        6:00 PM (IST)<br>
-> Mentors :     [Deepthi Sudharsan](https://www.linkedin.com/in/deepthi-sudharsan/), Abhishek <br>
-> Venue :       MS Teams (Microsoft, Hehe)<br>
-> Link :        Will be available shortly!
+> Mentors :     [Deepthi Sudharsan](https://www.linkedin.com/in/deepthi-sudharsan/), [Abhishek Mankme](https://www.linkedin.com/in/abhishek-mankame/) <br>
+> Venue :       [MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWE3MWY4ZDUtMzk2Ni00OWE0LTgxN2YtMTA3MDFiNWQwY2Q2%40thread.v2/0?context=%7b%22Tid%22%3a%2284c31ca0-ac3b-4eae-ad11-519d80233e6f%22%2c%22Oid%22%3a%22bec28c27-e7a9-485b-8caf-4270a42ab084%22%7d) (Microsoft, Hehe)<br>
 
 ```
 This event is only for Windows users, as Power Bi is only supported on Windows devices as of now.
