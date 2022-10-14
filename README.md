@@ -1,3 +1,5 @@
+![Deepthi MLSA-04](https://user-images.githubusercontent.com/67522615/195774683-c4f71005-43b3-4138-8dff-4c617b4e5da2.png)
+
 # MLSA-Tutorial 🙌
 Welcome to the MLSA Deep Learning Tutorial. In this session, we will help you install the necessary software and framework, perform Exploratory Data Analysis using **Power Bi**, design, train and test a Deep Learning Model using **Keras**, and deploy it on an intuitive UI using **Streamlit**.
 
